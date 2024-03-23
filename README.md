@@ -19,8 +19,10 @@ Repository of stuff to learn about and build an SDR
 ### Quadrature Signals
 - https://www.ieee.li/pdf/essay/quadrature_signals.pdf
 ### Phase Locked Loop (PLL): 
+Create stable signal reference. Use a stable low freq reference (Crystal) to stabilize a high freq unstable ref (VCO). 
 - https://www.youtube.com/watch?v=A9qt0JYdvFU
 - https://www.youtube.com/watch?v=P8agoshy3H4
+- https://www.youtube.com/watch?v=CM8n3wzNOvc
 ### Voltage Controlled Oscillator (VCO)
 - 
 ### Operational Amplifiers
