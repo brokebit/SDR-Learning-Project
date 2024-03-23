@@ -44,7 +44,7 @@ Repository of stuff to learn about and build an SDR
 - 
 https://www.allaboutcircuits.com/technical-articles/how-to-multiply-RF-signals-without-a-multiplier-the-switching-mixer/
 
-### Taylor Detector/Mixer:
+### Tayloe Detector/Mixer:
 - https://norcalqrp.org/files/Tayloe_mixer_x3a.pdf
 - https://www.youtube.com/watch?v=EarY64Lf3ls&t=327s
 - https://github.com/thaaraak/Tayloe-Mixer-v3
