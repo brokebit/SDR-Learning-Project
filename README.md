@@ -26,7 +26,11 @@ Create stable signal reference. Use a stable low freq reference (Crystal) to sta
 ### Voltage Controlled Oscillator (VCO)
 - 
 ### Operational Amplifiers
-- 
+- Gain is huge
+- In open loop configuration, they are just comparators
+- If non-inverting input is higher than inverting input, output will be V+
+- If non-inverting input is lower than inverting input, output will be V-
+- Called "Operational" cause they were designed to perform math mathematical "operations" 
 
 ## Radio Designs
 - https://circuitsalad.com/wp-content/uploads/2020/05/si5351_sdr3.jpg
