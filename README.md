@@ -24,7 +24,7 @@ Create stable signal reference. Use a stable low freq reference (Crystal) to sta
 - https://www.youtube.com/watch?v=P8agoshy3H4
 - https://www.youtube.com/watch?v=CM8n3wzNOvc
 ### Voltage Controlled Oscillator (VCO)
-- 
+- Usually unstable, and require something like a PLL to stabilize 
 ### Operational Amplifiers
 - Gain is huge
 - In open loop configuration, they are just comparators
