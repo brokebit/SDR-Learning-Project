@@ -26,11 +26,21 @@ Create stable signal reference. Use a stable low freq reference (Crystal) to sta
 ### Voltage Controlled Oscillator (VCO)
 - Usually unstable, and require something like a PLL to stabilize 
 ### Operational Amplifiers
+- https://www.youtube.com/watch?v=7FYHt5XviKc
 - Gain is huge
 - In open loop configuration, they are just comparators; Add negative feedback to become amplifiers rather than comparators
 - If non-inverting input is higher than inverting input, output will be V+
 - If non-inverting input is lower than inverting input, output will be V-
-- Called "Operational" cause they were designed to perform mathematical "operations"
+- Called "Operational" cause they were designed to perform mathematical "operations."
+- Can be used as a buffer in buffer configuration
+- Input impedance is high, so won’t draw current or effect anything on the input side
+- Output impedance is low, so you can drive a bit of current through it. Tens of milliamps
+- Non-Inverting Amp Configuration (Single Ended Amp)
+    - Gain = Rf/R1 + 1
+- Inverting Amp configuration
+    - Gain = Rf/R1
+    - Input * Gain * -1
+    - With DC supply, it can never go negative. So need to off set and can do that by supply 1/2 Vcc to non-inverting pin
   
 
 ## Radio Designs
