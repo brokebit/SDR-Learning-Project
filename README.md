@@ -1,7 +1,8 @@
 # SDR-Learning-Project
 Repository of stuff to learn about and build an SDR
 # Projects
-- (Test)[test.html]
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+- [Mixer Board](https://github.com/brokebit/SDR-Learning-Project/tree/main/Mixer%20Board/TS3A5017-Mixer)
   
 # SDR Radio Research
 
