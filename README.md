@@ -1,7 +1,7 @@
 # SDR-Learning-Project
 Repository of stuff to learn about and build an SDR
 # Projects
-- Mix Board
+- Mixer Board
   
 # SDR Radio Research
 
