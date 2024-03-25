@@ -1,0 +1,8 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J1";"AMPHENOL_901-143-6RFX";1;"RF-In";;;
+2;"J2";"AMPHENOL_901-143-6RFX";1;"CLK0";;;
+3;"J3";"AMPHENOL_901-143-6RFX";1;"CLK1";;;
+4;"J4";"PinHeader_1x06_P2.54mm_Vertical";1;"Conn_01x06";;;
+5;"U1";"Texas_RGY_R-PVQFN-N16_EP2.05x2.55mm";1;"TS3A5017RGY";;;
+6;"C1";"C_0603_1608Metric";1;".1uf";;;
+7;"C5,C4,C3,C2";"C_1206_3216Metric";4;".1uf";;;
