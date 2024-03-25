@@ -1,4 +1,4 @@
-23148825100293993
+23150536493966973
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6705,6 +6705,13 @@ RC Connector XT60
 0
 4
 2
+Connector_Amphenol
+AMPHENOL_901-143-6RFX
+
+
+0
+5
+5
 Connector_Amphenol
 Amphenol_M8S-03PMMR-SF8001
 M8 Male connector for panel, 90° PCB mount (https://www.amphenolltw.com/2012download/2D%20PDF/03_M%20Series%20Sensor%20Connectors/M8S-XXPMMR-SF8001.pdf)
