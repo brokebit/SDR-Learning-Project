@@ -53,6 +53,7 @@ Create stable signal reference. Use a stable low freq reference (Crystal) to sta
 - https://circuitsalad.com/wp-content/uploads/2020/05/si5351_sdr3.jpg
 - NA5Y - https://www.youtube.com/watch?v=prCrbD4T6I4
 - NA5Y - https://www.youtube.com/watch?v=redvZ7LcXT0&t=171s
+- https://www.zachtek.com/
 
 ## Filters
 ### Receive 
