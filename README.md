@@ -65,6 +65,7 @@ Create stable signal reference. Use a stable low freq reference (Crystal) to sta
 
 ## Mixing and Switching
 - VFO (SI5351A): https://www.youtube.com/watch?v=9Dz9BO6VJIk
+- Mixers: https://www.youtube.com/watch?v=uiTrCUNRUIA
 - Mixer: https://www.youtube.com/watch?v=JuuKF1RFvBM
 - 
 https://www.allaboutcircuits.com/technical-articles/how-to-multiply-RF-signals-without-a-multiplier-the-switching-mixer/
