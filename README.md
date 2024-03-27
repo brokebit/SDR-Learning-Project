@@ -75,3 +75,6 @@ https://www.allaboutcircuits.com/technical-articles/how-to-multiply-RF-signals-w
 - https://norcalqrp.org/files/Tayloe_mixer_x3a.pdf
 - https://www.youtube.com/watch?v=EarY64Lf3ls&t=327s
 - https://github.com/thaaraak/Tayloe-Mixer-v3
+
+## RF Board Design
+- Research needed
