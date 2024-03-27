@@ -78,3 +78,5 @@ https://www.allaboutcircuits.com/technical-articles/how-to-multiply-RF-signals-w
 
 ## RF Board Design
 - Research needed
+- Impeeadance and traces
+- Stackups and Ground planes
