@@ -1,7 +1,7 @@
 # SDR-Learning-Project
 Repository of stuff to learn about and build an SDR
 # Learning Projects
-- [Mixer Board](https://github.com/brokebit/SDR-Learning-Project/tree/main/Mixer%20Board/TS3A5017-Mixer) TS3A5017
+- [Mixer Board](https://github.com/brokebit/SDR-Learning-Project/tree/main/Mixer%20Board/TS3A5017-Mixer) TS3A5017 (Direct Reciever)
 - Op Amp
 - Front End Amp
 - Frequency Synthesizer
