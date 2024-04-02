@@ -58,14 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "silk_edge_clearance|127254000|86416000|f0b7d12d-562d-42d4-a5d1-31010924df17|fba9245c-fec0-4e07-b171-a752e34c8ffd",
-        "silk_edge_clearance|127254000|93416000|f0b7d12d-562d-42d4-a5d1-31010924df17|d63c2b20-6ee6-409e-b70b-ff9ad1ea4438",
-        "silk_edge_clearance|143058000|73660000|f0b7d12d-562d-42d4-a5d1-31010924df17|7feb9eaf-ab48-4976-a69a-6ca2cb00217d",
-        "silk_edge_clearance|150058000|73660000|f0b7d12d-562d-42d4-a5d1-31010924df17|92915038-3f5e-4b0a-9a6e-6506312b6ef9",
-        "silk_edge_clearance|165100000|86416000|f0b7d12d-562d-42d4-a5d1-31010924df17|1f71af6d-f7e5-4c23-b67b-b6c79dcde936",
-        "silk_edge_clearance|165100000|93416000|f0b7d12d-562d-42d4-a5d1-31010924df17|4e9adf2a-6bc2-4da2-ab58-39a1d6340bf8"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -185,7 +178,7 @@
       ],
       "track_widths": [
         0.0,
-        0.035
+        0.3
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -236,10 +229,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "power_pin_not_driven|1193800|1193800|7c0ad603-ebcc-420d-8ac5-41b6b3d2e3c4|00000000-0000-0000-0000-000000000000|/63b6c9fd-e4cb-49e9-b780-e3a2d9a5be19|/63b6c9fd-e4cb-49e9-b780-e3a2d9a5be19|",
-      "power_pin_not_driven|1333500|901700|d218dd59-3b33-4ea1-9362-d910c34785eb|00000000-0000-0000-0000-000000000000|/63b6c9fd-e4cb-49e9-b780-e3a2d9a5be19|/63b6c9fd-e4cb-49e9-b780-e3a2d9a5be19|"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -454,7 +444,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "TS3A5017-Mixer.kicad_pro",
+    "filename": "LowPassFilter.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -489,8 +479,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Manufacture/",
-      "pos_files": "Manufacture/",
+      "plot": "",
+      "pos_files": "",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -598,7 +588,7 @@
   },
   "sheets": [
     [
-      "63b6c9fd-e4cb-49e9-b780-e3a2d9a5be19",
+      "17568d8c-f558-4682-a7e4-af67feff4920",
       "Root"
     ]
   ],

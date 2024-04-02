@@ -765,7 +765,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at -2.54 0 360)
+			(at -2.54 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "77418260-7db6-4498-8f92-e28b51f7c98e")
@@ -930,7 +930,7 @@
 			(uuid "7b5d5e48-7998-46cd-a4c5-144c88935950")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0.013 1.016 360)
+			(at 0.013 1.016 0)
 			(layer "F.Fab")
 			(uuid "2af0a983-a170-471e-a6c5-2e6de1fc4525")
 			(effects
@@ -1999,7 +1999,7 @@
 		(descr "Through hole straight pin header, 1x06, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x06 2.54mm single row")
 		(property "Reference" "J4"
-			(at 0 -2.33 270)
+			(at 0 -2.33 -90)
 			(layer "F.SilkS")
 			(uuid "7758dce1-2109-4cbe-9934-49d62dc8632d")
 			(effects
@@ -2010,7 +2010,7 @@
 			)
 		)
 		(property "Value" "Conn_01x06"
-			(at 0 15.03 270)
+			(at 0 15.03 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9e5f984e-3e75-4684-86e2-43e2d0be94de")
@@ -2213,7 +2213,7 @@
 			(uuid "12cae23a-f638-40f4-8504-eed9427b4550")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 6.35 360)
+			(at 0 6.35 0)
 			(layer "F.Fab")
 			(uuid "2da9a246-4817-4a57-86b0-7353fa1fdcb3")
 			(effects
@@ -2617,7 +2617,7 @@
 		(uuid "8b1c33ac-08c5-4f5c-9eb4-7d491489edf2")
 		(at 159.512 89.916 90)
 		(property "Reference" "J2"
-			(at 0.445 -5.889 270)
+			(at 0.445 -5.889 -90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "eb93c8b3-adb1-45eb-b5c7-cd4fc78856f8")
