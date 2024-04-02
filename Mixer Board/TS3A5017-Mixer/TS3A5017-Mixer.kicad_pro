@@ -58,14 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "silk_edge_clearance|127254000|86416000|f0b7d12d-562d-42d4-a5d1-31010924df17|fba9245c-fec0-4e07-b171-a752e34c8ffd",
-        "silk_edge_clearance|127254000|93416000|f0b7d12d-562d-42d4-a5d1-31010924df17|d63c2b20-6ee6-409e-b70b-ff9ad1ea4438",
-        "silk_edge_clearance|143058000|73660000|f0b7d12d-562d-42d4-a5d1-31010924df17|7feb9eaf-ab48-4976-a69a-6ca2cb00217d",
-        "silk_edge_clearance|150058000|73660000|f0b7d12d-562d-42d4-a5d1-31010924df17|92915038-3f5e-4b0a-9a6e-6506312b6ef9",
-        "silk_edge_clearance|165100000|86416000|f0b7d12d-562d-42d4-a5d1-31010924df17|1f71af6d-f7e5-4c23-b67b-b6c79dcde936",
-        "silk_edge_clearance|165100000|93416000|f0b7d12d-562d-42d4-a5d1-31010924df17|4e9adf2a-6bc2-4da2-ab58-39a1d6340bf8"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -481,7 +474,16 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "Net-(U1-1S1)": "Q-Pos",
+      "Net-(U1-1S2)": "I-Pos",
+      "Net-(U1-1S3)": "Q-Neg",
+      "Net-(U1-1S4)": "I-Neg",
+      "Net-(U2-IN+)": "Q-Pos",
+      "Net-(U2-IN-)": "Q-Neg",
+      "Net-(U3-IN+)": "I-Pos",
+      "Net-(U3-IN-)": "I-Neg"
+    },
     "netclass_patterns": []
   },
   "pcbnew": {
