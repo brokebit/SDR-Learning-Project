@@ -77,6 +77,6 @@ https://www.allaboutcircuits.com/technical-articles/how-to-multiply-RF-signals-w
 - https://github.com/thaaraak/Tayloe-Mixer-v3
 
 ## RF Board Design
-- Research needed
-- Impeeadance and traces
-- Stackups and Ground planes
+### Research needed
+- Impedance and traces - Use either JLC PCB impedance calculator or one built into KiCad
+- Stackups and Ground planes - Use four layers or more. Put RF traces on top or bottom layers. Always a Ground plane above or bellow the RF layer for return currents
