@@ -178,7 +178,7 @@
       ],
       "track_widths": [
         0.0,
-        0.035
+        0.156464
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -474,16 +474,7 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "Net-(U1-1S1)": "Q-Pos",
-      "Net-(U1-1S2)": "I-Pos",
-      "Net-(U1-1S3)": "Q-Neg",
-      "Net-(U1-1S4)": "I-Neg",
-      "Net-(U2-IN+)": "Q-Pos",
-      "Net-(U2-IN-)": "Q-Neg",
-      "Net-(U3-IN+)": "I-Pos",
-      "Net-(U3-IN-)": "I-Neg"
-    },
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {

@@ -2717,6 +2717,94 @@
 		)
 		(uuid "fdaf16d7-e370-4e1d-b966-cdecda8be534")
 	)
+	(label "Q-Neg"
+		(at 179.07 100.33 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1749d6c6-a275-4265-810c-0af513836b31")
+	)
+	(label "I-Neg"
+		(at 179.07 102.87 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "532448ad-098a-432a-917e-6e57f72fbc0e")
+	)
+	(label "Q-Pos"
+		(at 179.07 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "69a45184-b26f-4ba0-97e8-ba7628433b3f")
+	)
+	(label "Q-Pos"
+		(at 203.2 63.5 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6fdaa7ad-eda2-4f8a-a613-6d509e1b4874")
+	)
+	(label "Q-Neg"
+		(at 204.47 85.09 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8a740a6b-0e6f-46c6-b76a-fe85ba4fe932")
+	)
+	(label "I-Pos"
+		(at 204.47 114.3 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b425e00d-42d1-4a39-b57a-0d9548dc8822")
+	)
+	(label "I-Neg"
+		(at 203.2 135.89 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e1fbc153-e3e3-45a3-a892-7bbce9777bed")
+	)
+	(label "I-Pos"
+		(at 179.07 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f6abb57f-76c5-4b42-a1aa-18a74617729b")
+	)
 	(global_label "CLK0"
 		(shape input)
 		(at 120.65 105.41 180)
@@ -2885,182 +2973,6 @@
 		)
 		(uuid "24b1125f-670e-4787-8da9-86e3fcad4bb6")
 	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 203.2 114.3 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1dfde035-5c4d-4b3d-9c04-c2d0894ee270")
-		(property "Netclass" "I-Pos"
-			(at 199.39 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify right)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 184.15 97.79 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "36a1dec3-79d8-4e20-af97-338ae59ffd20")
-		(property "Netclass" "I-Pos"
-			(at 187.96 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 184.15 100.33 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5ff295a2-db39-46ba-93c0-a373adfd9e6b")
-		(property "Netclass" "Q-Neg"
-			(at 187.96 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 203.2 135.89 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "66836237-2c5d-48aa-a1d1-c6573d05decb")
-		(property "Netclass" "I-Neg"
-			(at 199.39 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify right)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 184.15 95.25 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "92854857-a2b8-4210-8bd4-6a600a68eef3")
-		(property "Netclass" "Q-Pos"
-			(at 187.96 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 184.15 102.87 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c7ecba12-0c60-4709-a033-49ffa86f768f")
-		(property "Netclass" "I-Neg"
-			(at 187.96 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 203.2 63.5 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e0f4d8bb-3b1f-405e-ab3a-38b5b09221b5")
-		(property "Netclass" "Q-Pos"
-			(at 199.39 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify right)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 203.2 85.09 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fa7c0a1f-7b31-4bd9-a2f7-1fa9fa1fd7b8")
-		(property "Netclass" "Q-Neg"
-			(at 199.39 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify right)
-			)
-		)
-	)
 	(symbol
 		(lib_id "Device:C_Small")
 		(at 209.55 120.65 180)
@@ -3208,7 +3120,7 @@
 		(fields_autoplaced yes)
 		(uuid "15e25c68-06c7-4a66-8b23-21823ec8fd59")
 		(property "Reference" "J4"
-			(at 281.94 97.1549 0)
+			(at 281.94 98.4249 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3223,6 +3135,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal"
@@ -3577,7 +3490,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 163.83 106.68 0)
 			(effects
 				(font
@@ -4046,7 +3959,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 176.53 106.68 0)
 			(effects
 				(font
@@ -5213,7 +5126,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 157.48 106.68 0)
 			(effects
 				(font
@@ -5547,7 +5460,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 170.18 106.68 0)
 			(effects
 				(font
