@@ -80,3 +80,5 @@ https://www.allaboutcircuits.com/technical-articles/how-to-multiply-RF-signals-w
 ### Research needed
 - Impedance and traces - Use either JLC PCB impedance calculator or one built into KiCad
 - Stackups and Ground planes - Use four layers or more. Put RF traces on top or bottom layers. Always a Ground plane above or bellow the RF layer for return currents
+- Stripline: Internal Trace
+- Microstrip: Outer layer trace
