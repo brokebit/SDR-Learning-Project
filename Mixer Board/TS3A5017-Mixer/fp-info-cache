@@ -1,4 +1,4 @@
-23150536493969973
+23152248731802340
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6718,6 +6718,13 @@ M8 Male connector for panel, 90° PCB mount (https://www.amphenolltw.com/2012dow
 three-pin M8
 0
 5
+4
+Connector_Audio
+HRO_PJ-320D-A
+
+
+0
+4
 4
 Connector_Audio
 Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal
