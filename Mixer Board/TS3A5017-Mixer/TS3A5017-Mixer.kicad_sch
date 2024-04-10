@@ -4841,10 +4841,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ba32d057-2e62-4b6d-81df-16878b16933d")
 		(property "Reference" "J5"
-			(at 283.21 97.7899 0)
+			(at 273.05 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4859,6 +4858,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Audio:HRO_PJ-320D-A"
